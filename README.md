@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">A passionate Fullstack developer from Turkey.</h3>
+<h2 align="center">A passionate Fullstack developer from Turkey.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erensakrak&label=Profile%20views&color=ff0000&style=flat" alt="erensakrak" /> </p>
 
-- 🔭 I’m currently working on **Web Projects.**
+- <h3 align="left">🔭 I’m currently working on Web Projects.</h3>
 
-- 🌱 I’m currently learning **React, Typescript, Node.js, Material UI**
+- <h3 align="left">🌱 I’m currently learning React, Typescript, Node.js, Material UI.</h3>
 
-- 💬 Ask me about **React or typescript.**
+- <h3 align="left">💬 Ask me about React or typescript.</h3>
 
-- 📫 How to reach me **eren.sakrak1453@gmail.com**
+- <h3 align="left">📫 How to reach me: </h3>
+**eren.sakrak1453@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
