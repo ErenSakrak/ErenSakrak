@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erensakrak&label=Profile%20views&color=ff0000&style=flat" alt="erensakrak" /> </p>
 
-- <h3 align="left">🔭 I am currently working on Website Development at Fullstack.</h3>
+- <h3 align="left">🔭 I am currently working on Website Development as a Fullstack Developer.</h3>
 
 - <h3 align="left">🌱 I’m currently learning React, Typescript, Node.js, Material UI.</h3>
 
