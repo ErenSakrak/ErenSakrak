@@ -10,7 +10,7 @@
 - <h3 align="left">💬 Ask me about React or typescript.</h3>
 
 - <h3 align="left">📫 How to reach me: </h3>
-**eren.sakrak1453@gmail.com**
+**erensakrak@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
